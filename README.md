@@ -1,3 +1,5 @@
+⚠️ Fork de nazirlouis/ada_v2 → Veja gilvector/jarvis-business
+
 # A.D.A V2 - Advanced Design Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue?logo=python)
